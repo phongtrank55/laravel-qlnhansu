@@ -1,0 +1,4 @@
+ALTER TABLE `nhanvien` CHANGE `soDienThoai` `soDienThoai` VARCHAR(100) CHARACTER SET utf8mb4 COLLATE utf8mb4_general_ci NULL;
+
+ALTER TABLE `nhanvien` CHANGE `avatar` `avatar` VARCHAR(100) CHARACTER SET utf8mb4 COLLATE utf8mb4_general_ci NULL, CHANGE `quocTich` `quocTich` VARCHAR(100) CHARACTER SET utf8mb4 COLLATE utf8mb4_general_ci NULL, CHANGE `danToc` `danToc` VARCHAR(100) CHARACTER SET utf8mb4 COLLATE utf8mb4_general_ci NULL, CHANGE `tonGiao` `tonGiao` VARCHAR(100) CHARACTER SET utf8mb4 COLLATE utf8mb4_general_ci NULL, CHANGE `honNhan` `honNhan` INT(11) NULL;
+ALTER TABLE `nhanvien` CHANGE `diaChi` `diaChi` VARCHAR(100) CHARACTER SET utf8mb4 COLLATE utf8mb4_general_ci NULL;

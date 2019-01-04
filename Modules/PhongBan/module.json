@@ -1,0 +1,14 @@
+{
+    "name": "PhongBan",
+    "alias": "phongban",
+    "description": "",
+    "keywords": [],
+    "active": 1,
+    "order": 0,
+    "providers": [
+        "Modules\\PhongBan\\Providers\\PhongBanServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}

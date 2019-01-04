@@ -1,0 +1,12 @@
+.form-header{
+	    font-weight: bold;
+    color: cornflowerblue;
+    text-transform: uppercase;
+    border-bottom: cornflowerblue 1px solid;
+    margin: 10px 0px 10px 0px;
+}
+
+.require-field{
+	font-style: italic;
+	color: red;
+}

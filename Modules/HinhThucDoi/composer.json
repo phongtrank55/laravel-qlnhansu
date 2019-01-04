@@ -1,0 +1,25 @@
+{
+    "name": "nwidart/hinhthucdoi",
+    "description": "",
+    "authors": [
+        {
+            "name": "Nicolas Widart",
+            "email": "n.widart@gmail.com"
+        }
+    ],
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Modules\\HinhThucDoi\\Providers\\HinhThucDoiServiceProvider"
+            ],
+            "aliases": {
+                
+            }
+        }
+    },
+    "autoload": {
+        "psr-4": {
+            "Modules\\HinhThucDoi\\": ""
+        }
+    }
+}

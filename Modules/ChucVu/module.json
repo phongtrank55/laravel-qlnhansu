@@ -1,0 +1,14 @@
+{
+    "name": "ChucVu",
+    "alias": "chucvu",
+    "description": "",
+    "keywords": [],
+    "active": 1,
+    "order": 0,
+    "providers": [
+        "Modules\\ChucVu\\Providers\\ChucVuServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}

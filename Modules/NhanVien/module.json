@@ -1,0 +1,14 @@
+{
+    "name": "NhanVien",
+    "alias": "nhanvien",
+    "description": "",
+    "keywords": [],
+    "active": 1,
+    "order": 0,
+    "providers": [
+        "Modules\\NhanVien\\Providers\\NhanVienServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}

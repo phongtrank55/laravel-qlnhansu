@@ -1,0 +1,14 @@
+{
+    "name": "QuaTrinhCongTac",
+    "alias": "quatrinhcongtac",
+    "description": "",
+    "keywords": [],
+    "active": 1,
+    "order": 0,
+    "providers": [
+        "Modules\\QuaTrinhCongTac\\Providers\\QuaTrinhCongTacServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}
