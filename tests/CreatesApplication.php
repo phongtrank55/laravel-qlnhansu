@@ -14,7 +14,7 @@ trait CreatesApplication
     public function createApplication()
     {
         $app = require __DIR__.'/../bootstrap/app.php';
-        // test fork
+        // test fork 2
         $app->make(Kernel::class)->bootstrap();
 
         return $app;
