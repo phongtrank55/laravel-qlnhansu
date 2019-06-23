@@ -4,3 +4,4 @@
 # test conflict xx
 # testxxx cf2
 
+# pt test cf4
